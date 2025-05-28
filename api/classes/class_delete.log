@@ -1,0 +1,5 @@
+2025-05-17 09:56:49 - {"input":{"class_id":1},"item_exists":true,"foreign_key_checks":"enabled","delete_attempt":{"query":"DELETE FROM classes WHERE id = :id","params":{"id":1}},"delete_result":{"success":true,"rows_affected":1}}
+2025-05-20 14:39:58 - {"input":{"class_id":3},"item_exists":true,"foreign_key_checks":"enabled","delete_attempt":{"query":"DELETE FROM classes WHERE id = :id","params":{"id":3}},"delete_result":{"success":true,"rows_affected":1}}
+2025-05-21 11:38:47 - {"input":{"class_id":4},"item_exists":true,"foreign_key_checks":"enabled","delete_attempt":{"query":"DELETE FROM classes WHERE id = :id","params":{"id":4}},"delete_result":{"success":true,"rows_affected":1}}
+2025-05-21 11:38:50 - {"input":{"class_id":3},"item_exists":true,"foreign_key_checks":"enabled","delete_attempt":{"query":"DELETE FROM classes WHERE id = :id","params":{"id":3}},"delete_result":{"success":true,"rows_affected":1}}
+2025-05-21 11:38:53 - {"input":{"class_id":2},"item_exists":true,"foreign_key_checks":"enabled","delete_attempt":{"query":"DELETE FROM classes WHERE id = :id","params":{"id":2}},"delete_result":{"success":true,"rows_affected":1}}
